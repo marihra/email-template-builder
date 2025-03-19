@@ -1,0 +1,7 @@
+{
+  "COMPANY_NAME": "GOTICKETS",
+  "SUPPORT_TEAM": "GOTICKETS Support Team",
+  "SUPPORT_TEAM_EMAIL": "GOTICKETS@gmail.com",
+  "IMAGE_URL": "https://spa-company.com/wp-content/uploads/2020/03/",
+  "LEGALS_FOOTER": "This message was sent to {{$user_email}} based on your relationship with GoTickets. If you’d like to unsubscribe, click unsubscribe here. This is a promotional offer from Go Marketplace LLC d/b/a GoTickets, 1313 North Market Street, Suite 130-C, Wilmington, DE 19801, USA."
+}
